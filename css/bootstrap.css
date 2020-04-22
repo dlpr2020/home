@@ -1097,12 +1097,12 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #337ab7;
+  color: #aa0000;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #23527c;
+  color: #990000;
   text-decoration: underline;
 }
 a:focus {
@@ -4173,7 +4173,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
   color: #fff;
-  background-color: #337ab7;
+  background-color: #aa0000;
 }
 .nav-stacked > li {
   float: none;
@@ -5019,7 +5019,7 @@ a.badge:focus {
 }
 .list-group-item.active > .badge,
 .nav-pills > .active > a > .badge {
-  color: #337ab7;
+  color: #aa0000;
   background-color: #fff;
 }
 .list-group-item > .badge {
